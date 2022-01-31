@@ -1,6 +1,6 @@
-# Exercício Final Capítulo 9 Bootcamp 3.0
+# Exercício Final Capítulo 10 Bootcamp 3.0
 
-MovieFlix front inicial
+MovieFlix Completo
 
 # Dados de acesso:
 
